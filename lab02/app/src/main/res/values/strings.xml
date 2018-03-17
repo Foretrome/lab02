@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">lab02</string>
+    <string name="welcometxt">Here is a list of items</string>
+    <string name="fetchBtn">Fetch</string>
+    <string name="prefBtn">Preferences</string>
+    <string name="txtType">Choose the text type:</string>
+    <string name="txtItem2Display">Choose maximum displaying item:</string>
+    <string name="txtFetchTime">Choose how often to fetch:</string>
+    <string name="addUrl">URL</string>
+    <string name="save">Save</string>
+
+    <string-array name="typeName">
+        <item>RSS</item>
+        <item>Atom</item>
+    </string-array>
+
+    <string-array name="typeCount">
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="FetchTime">
+        <item>10 min</item>
+        <item>60 min</item>
+        <item>1 day</item>
+    </string-array>
+</resources>
